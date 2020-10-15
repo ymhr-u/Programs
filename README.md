@@ -1,5 +1,7 @@
 
 以下、レポジトリの内容と簡単な説明です。  
+※2020/10/15:一部削除しました（削除したものは丸括弧付きで表示しています）
+
 ---
 * Algorithm_DataStructure  
   * 8queens.c //8クイーン問題  
@@ -37,33 +39,33 @@
 ---  
 * OperatingSystem  
   * DeadLock  
-    * Bankers_algorithm.cpp //銀行家のアルゴリズム  
-    * Dining_Phillosofer_semesphores.cpp //食事する哲学者の問題  
+   （ * Bankers_algorithm.cpp //銀行家のアルゴリズム )
+   （ * Dining_Phillosofer_semesphores.cpp //食事する哲学者の問題 )
   * Diskscheduling
-    * C_LOOK.cpp //c-lookアルゴリズム  
-    * LOOK.cpp //lookアルゴリズム  
-    * SCAN.cpp //scanアルゴリズム  
+    ( * C_LOOK.cpp //c-lookアルゴリズム )
+    ( * LOOK.cpp //lookアルゴリズム )
+    ( * SCAN.cpp //scanアルゴリズム )
   * MemoryManagement  
-    * Bestfit.cpp //ベストフィットアルゴリズム  
-    * Firstfit.cpp　//ファーストフィットアルゴリズム  
-    * Nextfit.cpp　//ネクストフィットアルゴリズム  
-    * Worstfit.cpp　//ワーストフィットアルゴリズム  
+    ( * Bestfit.cpp //ベストフィットアルゴリズム )
+    ( * Firstfit.cpp　//ファーストフィットアルゴリズム )
+    ( * Nextfit.cpp　//ネクストフィットアルゴリズム )
+    ( * Worstfit.cpp　//ワーストフィットアルゴリズム )
     * Management  
       * MEM_ALLOC.c //それぞれのアルゴリズムを使って性能比較をするプログラム  
       * memtest100.txt //　allocateとdeallocateを100回行うテストデータ  
       * memtest1000.txt //　allocateとdeallocateを1000回行うテストデータ  
   * Paging  
-    * FIFO.cpp //FIFOによるページング  
-    * LRU.cpp //LRUによるページング  
-    * Optimal.cpp //(理論上)最適なページングアルゴリズム  
-    * SecondChance.cpp //セカウンドチャンスページング  
+   ( * FIFO.cpp //FIFOによるページング )
+   ( * LRU.cpp //LRUによるページング )
+   ( * Optimal.cpp //(理論上)最適なページングアルゴリズム ) 
+   ( * SecondChance.cpp //セカウンドチャンスページング ) 
 ---  
 * R   
-  * chi_squared_test.R // χ二乗検定  
-  * p_s_correlation.R //　ピアソンとスピアマンの相関係数  
-  * t_test.R　//T検定  
-  * logistic_regression.R //ロジスティック回帰分析  
-  * regression_analysis.R //回帰分析  
+  ( * chi_squared_test.R // χ二乗検定 )
+  ( * p_s_correlation.R //　ピアソンとスピアマンの相関係数 )
+  ( * t_test.R　//T検定  )
+  ( * logistic_regression.R //ロジスティック回帰分析 ) 
+  ( * regression_analysis.R //回帰分析 )
 ---   
 * Security
   * CRC32.c //CRC-32を計算する。QRコード解析プログラム作成時に実装した  
@@ -73,8 +75,8 @@
   * wordpress_bruteforce.py //ブルートフォースアタックを仕掛けてログインを試みるプログラム  
 ---
 * VisualComputing  
-  *convex_hull.cpp //凸包を求めるプログラム  
-  *line_segment_detection.cpp //線分交差を判定するプログラム  
+  ( *convex_hull.cpp //凸包を求めるプログラム  )
+  ( *line_segment_detection.cpp //線分交差を判定するプログラム )  
 ---
 * Network  
   *http_server.c //httpサーバ  
