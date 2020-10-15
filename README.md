@@ -41,7 +41,7 @@
   * DeadLock  
    （ * Bankers_algorithm.cpp //銀行家のアルゴリズム )  
    （ * Dining_Phillosofer_semesphores.cpp //食事する哲学者の問題 )  
-  * Diskscheduling
+  * Diskscheduling  
     ( * C_LOOK.cpp //c-lookアルゴリズム )  
     ( * LOOK.cpp //lookアルゴリズム )  
     ( * SCAN.cpp //scanアルゴリズム )  
@@ -61,7 +61,7 @@
    ( * SecondChance.cpp //セカウンドチャンスページング )  
 ---  
 * R   
-  ( * chi_squared_test.R // χ二乗検定 )
+  ( * chi_squared_test.R // χ二乗検定 )  
   ( * p_s_correlation.R //　ピアソンとスピアマンの相関係数 )  
   ( * t_test.R　//T検定  )  
   ( * logistic_regression.R //ロジスティック回帰分析 )  
